@@ -1,0 +1,34 @@
+_repo: A-Young-Mutineer_24599
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24599-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Lillie
+    - Thomas, Elizabeth
+    - Meade, Elizabeth Thomasina
+    - Mead, L. T.
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: The young mutineer. -- A fish-wife's dream.
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Young Mutineer
+url: http://www.gutenberg.org/ebooks/24599
